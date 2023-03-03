@@ -12,7 +12,6 @@
  
   ![Eris GitHub stats](https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=dark)
  
-#
 
  
 <div> 
