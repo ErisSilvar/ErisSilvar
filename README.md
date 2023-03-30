@@ -4,7 +4,7 @@
  
  <div> 
   <a href="https://www.instagram.com/erissilvar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eris-emanoel-ribeiro-silva-b66549242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eris-emanoel-ribeiro-silva-b66549242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
   </div>
@@ -21,5 +21,4 @@
   <img align="center" alt="Eris-HTML" height="30" width="30" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
  
   
-</div>
-![snake gif](https://github.com/ErisSilvar/ErisSilvar/blob/output/github-contribution-grid-snake.svg)
+ </div>
