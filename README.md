@@ -18,7 +18,7 @@
   <img align="center" alt="Eris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Eris-HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png">
   <img align="center" alt="Eris-HTML" height="30" width="30" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png">
-  <img align="center" alt="Eris-HTML" height="30" width="30" src="https://www.alura.com.br/artigos/assets/formacao-linguagem-c-plus-plus/img-01.png](https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
+  <img align="center" alt="Eris-HTML" height="30" width="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png">
   
  
   
