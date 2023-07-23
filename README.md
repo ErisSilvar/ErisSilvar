@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="center" style="background-color: #663399; padding: 10px;">
+<div align="center" style="background-color: black; padding: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=dark" alt="Eris GitHub stats">
 </div>
 
