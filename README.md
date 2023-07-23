@@ -1,19 +1,15 @@
 
 ###  Saudações, sou o Eris!
 <div style="display: inline_block"><br>
-<style>
- body{
-  background-color: blue;
-  }
-</style>
  
  <div> 
   <a href="https://www.linkedin.com/in/eris-emanoel-ribeiro-silva-b66549242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
   </div>
-  
- 
+<style>
+ background-color: blue;
+</style>
   ![Eris GitHub stats](https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=dark)
  
 
