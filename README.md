@@ -15,9 +15,9 @@
   <img align="center" alt="Eris-CSS" height="30" width="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
   <img align="center" alt="Eris-C" height="30" width="30" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png">
   <style>
-   body{
+   
    bacground-color: black;
-    }
+    
   </style>
   <img align="center" alt="Eris-BD" height="30" width="30" src="https://cdn.icon-icons.com/icons2/390/PNG/512/database_39555.png">
   
