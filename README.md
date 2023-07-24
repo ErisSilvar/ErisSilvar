@@ -13,6 +13,9 @@
   <img align="center" alt="Eris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Eris-HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png">
   <img align="center" alt="Eris-CSS" height="30" width="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+  <img align="center" alt="Eris-C" height="30" width="30" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png">
+  
+  
   
   
  
