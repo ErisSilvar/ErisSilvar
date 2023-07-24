@@ -9,7 +9,7 @@
   ![Eris GitHub stats](https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=dark)
  
 <div> 
-<img align="center" alt="Eris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Eris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
   <img align="center" alt="Eris-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Eris-HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png">
   <img align="center" alt="Eris-CSS" height="30" width="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
