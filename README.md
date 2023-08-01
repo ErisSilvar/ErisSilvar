@@ -7,10 +7,12 @@
     </a>
   </div>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=radical&hide_border=true" alt="Eris GitHub stats">
+  <div style="display: flex; align-items: center; justify-content: flex-end;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=radical&hide_border=true" alt="Eris GitHub stats">
+  </div>
  
   <h3 style="color: purple;">Tecnologias:</h3>
-  <div> 
+  <div style="display: flex; justify-content: space-around;">
     <img align="center" alt="Eris-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Eris-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Eris-HTML" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png">
