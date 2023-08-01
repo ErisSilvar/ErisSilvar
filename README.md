@@ -2,7 +2,7 @@
   <h1 style="color: purple;">Saudações, sou o Eris!</h1>
   <br>
   <div> 
-    <a href="https://www.linkedin.com/in/eris-emanoel-ribeiro-silva-b66549242/" target="_blank">
+    <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
