@@ -1,11 +1,11 @@
-<div style="border: 9px solid purple; padding: 80px; background-color: black;">
-  <h1 style="color: purple;">Saudações, sou o Eris!</h1>
+<div>
+  <h1>Saudações, sou o Eris!</h1>
   <br>
-  <div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank" style="position: relative; margin-right: 80%;">
+  <div>
+    <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <img style="position: relative; top: 0;" height="30" width="30" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif" alt="Dino GIF">
+    <img style="position: relative; top: 0;" height="70" width="70" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif" alt="Dino GIF">
   </div>
   
   <div style="display: flex; align-items: center; justify-content: flex-end;">
