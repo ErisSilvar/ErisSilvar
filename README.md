@@ -1,11 +1,11 @@
-<div style="border: 3px solid purple; padding: 10px; background-color: black;">
+<div style="border: 9px solid purple; padding: 80px; background-color: black;">
   <h1 style="color: purple;">Saudações, sou o Eris!</h1>
   <br>
-  <div> 
-    <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <div style="display: flex; align-items: center;">
+    <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank" style="position: relative; margin-right: 80%;">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-     <img height="30" widht="30" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif">
+    <img style="position: relative; top: 0;" height="30" width="30" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif" alt="Dino GIF">
   </div>
   
   <div style="display: flex; align-items: center; justify-content: flex-end;">
@@ -13,13 +13,13 @@
   </div>
   <br>
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=radical" alt="Top Languages">
    
   <div style="display: flex; justify-content: space-around;">
     <br>
     <img align="center" alt="Eris-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Eris-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Eris-HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png">
+    <img align="center" alt="Eris-Lua" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png">
     <img align="center" alt="Eris-CSS" height="30" width="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
     <img align="center" alt="Eris-C" height="30" width="30" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png">
     <img align="center" alt="Eris-BD" height="30" width="30" src="https://cdn.icon-icons.com/icons2/390/PNG/512/database_39555.png">
