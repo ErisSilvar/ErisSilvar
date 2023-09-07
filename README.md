@@ -13,7 +13,7 @@
   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&theme=tokyonight"
    <br><br>
-  <h3 style="color: purple;">Tecnologias:</h3>
+  <h3 style="color: purple;">Linguagens:</h3>
   <div style="display: flex; justify-content: space-around;">
     <img align="center" alt="Eris-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Eris-Csharp" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
