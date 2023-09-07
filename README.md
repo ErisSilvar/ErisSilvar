@@ -9,6 +9,7 @@
   
   <div style="display: flex; align-items: center; justify-content: flex-end;">
     <img src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=radical&hide_border=true" alt="Eris GitHub stats">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ErisSilvar=ErisSilvar&theme=tokyonight)
   </div>
  
   <h3 style="color: purple;">Tecnologias:</h3>
