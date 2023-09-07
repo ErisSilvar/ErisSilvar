@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b34db2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66cc66&height=120&section=header"/>
 <div>
   <h1>Bem-vindo à minha matrix!</h1>
   <br>
@@ -26,4 +26,4 @@
     <img align="center" alt="Eris-BD" height="30" width="30" src="https://cdn.icon-icons.com/icons2/390/PNG/512/database_39555.png">
   </div>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b34db2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66cc66&height=120&section=footer"/>
