@@ -5,6 +5,7 @@
     <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
+     <img height="30" widht="30" src="https://media.tenor.com/oVds8Dvp3hsAAAAi/cursed-dino.gif">
   </div>
   
   <div style="display: flex; align-items: center; justify-content: flex-end;">
