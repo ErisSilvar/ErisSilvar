@@ -1,6 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66cc66&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=98fb98&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+a+minha+matrix!;)](https://git.io/typing-svg)
+ 
 <div>
-  <h1>Bem-vindo à minha matrix!</h1>
+
   <br>
   <div>
     <a href="https://www.linkedin.com/in/eris-silva-b66549242/" target="_blank">
@@ -26,4 +29,4 @@
     <img align="center" alt="Eris-BD" height="30" width="30" src="https://cdn.icon-icons.com/icons2/390/PNG/512/database_39555.png">
   </div>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66cc66&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
