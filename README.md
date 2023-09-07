@@ -11,8 +11,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=radical&hide_border=true" alt="Eris GitHub stats">
   </div>
   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&theme=tokyonight"
-   <br><br>
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=radical">
+   
   <h3 style="color: purple;">Linguagens:</h3>
   <div style="display: flex; justify-content: space-around;">
     <img align="center" alt="Eris-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
