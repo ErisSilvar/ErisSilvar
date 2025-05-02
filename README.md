@@ -5,12 +5,10 @@
     </a>
   </div>
   
-  <div style="display: flex; align-items: center; justify-content: flex-end;">
+ <div>
     <img src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=radical&hide_border=true" alt="Eris GitHub stats">
-  </div>
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=radical" alt="Top Languages">
+ </div>
    
   <div style="display: flex; justify-content: space-around;">
     <br>
