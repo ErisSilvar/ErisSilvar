@@ -15,7 +15,6 @@
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://media1.tenor.com/m/-3m4RnM_8bAAAAAd/%E8%8F%8A%E5%9C%B0%E7%9C%9F-makoto-kikuchi.gif" alt="Gif anime café" widht="100" id="cafe" height="100">
    
   <div style="display: flex; justify-content: space-around;">
     <br>
