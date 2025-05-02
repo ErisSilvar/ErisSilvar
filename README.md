@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-  
+
+### Olá, seja bem-vindo! Eu sou o Eris Silva 👋
+---
+
+- 🎓 Formado em Técnico em Informática pelo IFNMG
+
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=tokyonight">
