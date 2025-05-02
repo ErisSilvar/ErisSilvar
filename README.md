@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-<h2>Olá, seja bem-vindo! Eu sou o Eris Silva 👋</h2>
+<h1>Olá, seja bem-vindo! Eu sou o Eris Silva 👋</h1>
 <div>
 
   <br>
