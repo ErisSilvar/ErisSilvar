@@ -21,7 +21,10 @@
     <img align="center" alt="Eris-JS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
     <img align="center" alt="Eris-CSS" height="30" width="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
     <img align="center" alt="Eris-C" height="30" width="30" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEA/1pBpk8qnGlExkA-tvPZxYIhm4ERCEC_MwCLcBGAs/s1600/c-logo.png">
-   <img align="center" alt="Eris-PHP" height="25" widht="25" src="https://pngimg.com/uploads/php/php_PNG5.png">
+   <img align="center" alt="Eris-PHP" height="25" widht="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/500px-Webysther_20160423_-_Elephpant.svg.png">
+   <img align="center" alt="Eris-MySQL" height="25" widht="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+   <img align="center" alt="Eris-Python" height="30" widht="30" src="https://img.icons8.com/color/512/python--v2.png">
+   
   </div>
   
 #### Contato:
