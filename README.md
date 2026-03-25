@@ -5,6 +5,7 @@
 
 - 🎓 Formado em Técnico em Informática pelo IFNMG
 - 💻 Desenvolvedor Front-End
+- Experiência como TI e Suporte HelpTask no mercado de trabalho
 
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=tokyonight">
