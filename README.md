@@ -3,8 +3,10 @@
 ### Olá, seja bem-vindo! Eu sou o Eris Silva 👋
 ---
 
-- 🎓 Formado em Técnico em Informática pelo IFNMG
-- 💻 Desenvolvedor Front-End
+- 🎓 Técnico em Informática pelo IFNMG
+- 💻 Cursando Técnico em Desenvolvimento de Sistemas pela Proz
+- 💻 Graduando em Ciência da Computação pelo IFNMG
+- 👨‍💻 Desenvolvedor Full-Stack em formação
 
  <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=tokyonight">
