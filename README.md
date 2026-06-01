@@ -9,8 +9,10 @@
 - 👨‍💻 Desenvolvedor Full-Stack em formação
 
  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=tokyonight">
+    <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErisSilvar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisSilvar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
  </div>
 
 ---
