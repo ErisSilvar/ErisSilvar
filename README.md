@@ -28,10 +28,12 @@ Me chamo Eris, tenho 20 anos e sou natural de Montes Claros-MG. Concluí o ensin
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+<div align="center">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErisSilvar/ErisSilvar/output/snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErisSilvar/ErisSilvar/output/snake.svg">
+   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ErisSilvar/ErisSilvar/output/snake.svg">
 </picture>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
