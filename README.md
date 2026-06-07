@@ -13,11 +13,11 @@ My name is Eris, I am 20 years old and I am from Montes Claros-MG. I completed h
   <br><br>
 </div>
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Languages ​​and Technologies
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,mysql,laravel,c,js,nodejs,python,php,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cs,python,react,laravel,mysql,nodejs,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
