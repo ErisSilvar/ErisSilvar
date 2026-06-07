@@ -6,7 +6,7 @@
 
 My name is Eris, I am 20 years old and I am from Montes Claros-MG. I completed high school at IFNMG with a computer technician. Currently, I am pursuing a degree in Computer Science at the same institution. I have professional experience in computer networks and I am seeking to become a Software Engineer.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erisemanoelrs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eris-silva-b66549242/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erisemanoelrs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eris-silva-b66549242/) [![Portfólio](https://img.shields.io/badge/Portfólio-Visit-000?style=for-the-badge&logo=firefox)](https://eris.infinitytechmg.com.br)
 <br><br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ErisSilvar&show_icons=true&theme=dark#gh-dark-mode-only" />
