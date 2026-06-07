@@ -2,9 +2,9 @@
 
 # 👨‍💻Eris Silva 
 
-**`Téc. em informática`** **`Desenvolvedor FullStack`**
+**`Computer technician`** **`FullStack Developer`**
 
-Me chamo Eris, tenho 20 anos e sou natural de Montes Claros-MG. Concluí o ensino médio no IFNMG, com o curso técnico em informática. Atualmente, estou graduando em Ciência da Computação na mesma instituição. Tenho experiência profissional em redes de computadores e busco estar me profissionalizando como Engenheiro de Software.
+My name is Eris, I am 20 years old and I am from Montes Claros-MG. I completed high school at IFNMG with a computer technician. Currently, I am pursuing a degree in Computer Science at the same institution. I have professional experience in computer networks and I am seeking to become a Software Engineer.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erisemanoelrs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eris-silva-b66549242/)
 <br><br>
